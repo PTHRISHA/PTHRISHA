@@ -1,5 +1,4 @@
-### 👋 All I am Thrisha 
-🙂
+### Hey👋 All I am Thrisha 🙂
 <!--
 **PTHRISHA/PTHRISHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
